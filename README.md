@@ -1,4 +1,5 @@
 LAPS Password Retriever
+
 This PowerShell script provides a graphical user interface (GUI) to retrieve the LAPS password for a specified server. The server must be LAPS-enabled and part of the domain.
 
 Prerequisites
